@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : AlipBot
+//   Credit : Akmal
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -8,7 +8,7 @@
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By AkmalFauzan ┓ _______________________\\
 
 
 
@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = '乂𝘼𝙡𝙞𝙥乂'
+creator = '乂HARUKA-MD乂'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
@@ -40,37 +40,37 @@ loghandler = {
         status: false,
         code: 503,
         message: '[!] Service Unavaible, Sedang dalam perbaikan',
-        maintanied_by: `${creator}`
+        maintanied_by: `${AkmalFauzan}`
     },
     noturl: {
     	status: false,
     	code: 403,
     	message: '[!] Forbiden or Error, Invlid url',
-    	maintanied_by: `${creator}`
+    	maintanied_by: `${HARUKA-MD}`
     },
     notfound: {
     	status: false,
     	code: 404,
     	message: '[!] Forbiden or Error, Not Found',
-    	maintanied_by: `${creator}`
+    	maintanied_by: `${HARUKA-MD}`
     },
     notid: {
     	status: false,
     	code: 404,
     	message: '[!] Forbiden or Error, Invalid Id or Zone',
-    	maintanied_by: `${creator}`
+    	maintanied_by: `${HARUKA-MD}`
     },
     redy: {
     	status: false,
     	code: 403,
     	message: '[!] Forbiden or Error, Alias ​​already in use',
-    	maintanied_by: `${creator}`
+    	maintanied_by: `${HARUKA-MD}`
     },
     emoji: {
 	status: false,
 	code: 403,
 	message: '[!] Forbiden or Error, Emoji not Found',
-	maintanied_by: `${creator}`
+	maintanied_by: `${HARUKA-MD}`
 }
 
 }
