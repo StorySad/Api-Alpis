@@ -11,7 +11,7 @@ require('dotenv').config()
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By AkmalMods ┓ _______________________\\
 
 
 
@@ -19,7 +19,7 @@ require('dotenv').config()
 
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
-creator = '乂𝘼𝙡𝙞𝙥乂' // Nama 
+creator = 'AkmalMods' // Nama 
 port = 8080 //port host
 LimitApikey = 200 // Limit Apikey default
 
@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = process.env.sendemail //Email SMTP
 fromsendemail = process.env.fromsendemail // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = process.env.sendpwmail // Password Email SMTP
-domain = 'alpis.eu.org'// domain website tanpa http or https
+domain = 'modsz-xd.xyz'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
